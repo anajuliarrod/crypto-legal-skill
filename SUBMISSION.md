@@ -1,9 +1,9 @@
 # Submission — crypto-legal-skill
 
-> Copy-paste source for the listing questionnaire and the [solanabr/skill-bounty](https://github.com/solanabr/skill-bounty) PR. Fill the two placeholders after pushing: `<REPO-URL>` and `<YOUR-GH-USERNAME>`.
+> Copy-paste source for the listing questionnaire and the [solanabr/skill-bounty](https://github.com/solanabr/skill-bounty) PR.
 
 **Skill:** `crypto-legal` — Crypto Legal & Compliance Skill for Solana builders
-**Repo:** `<REPO-URL>`
+**Repo:** `https://github.com/anajuliarrod/crypto-legal-skill`
 **License:** MIT
 **Track:** Level-up of the seeded `crypto-legal-skill` (production-grade, standalone, submodule-ready)
 **One-liner:** A citation-first crypto **legal & compliance co-pilot** that maps what a founder is shipping to which laws fire, and returns sourced checklists, jurisdiction matrices, and document scaffolds — informational, not legal advice.
@@ -64,9 +64,9 @@ Plus 4 document templates (launch checklist, risk disclaimer, geoblocking policy
 ## Install
 
 ```bash
-git clone <REPO-URL> && cd crypto-legal-skill && ./install.sh
+git clone https://github.com/anajuliarrod/crypto-legal-skill && cd crypto-legal-skill && ./install.sh
 # or submodule into the kit:
-git submodule add <REPO-URL> .claude/skills/ext/crypto-legal
+git submodule add https://github.com/anajuliarrod/crypto-legal-skill .claude/skills/ext/crypto-legal
 ```
 Then ask any crypto-legal question or run `/legal-triage`.
 
@@ -90,9 +90,9 @@ crypto-legal-skill/
 ```
 
 ## Links
-- Repo: `<REPO-URL>`
-- Demo: `<REPO-URL>/blob/main/DEMO.md`
-- Entry point: `<REPO-URL>/blob/main/skill/SKILL.md`
+- Repo: `https://github.com/anajuliarrod/crypto-legal-skill`
+- Demo: `https://github.com/anajuliarrod/crypto-legal-skill/blob/main/DEMO.md`
+- Entry point: `https://github.com/anajuliarrod/crypto-legal-skill/blob/main/skill/SKILL.md`
 - Reference shape followed: `solana-game-skill`
 
 ---
@@ -101,7 +101,7 @@ crypto-legal-skill/
 
 > **Add crypto-legal-skill — citation-first legal & compliance skill for Solana builders**
 >
-> Fills the kit's only legal/compliance white space (no legal vendor exists in `ext/`). A jurisdiction-aware, **citation-first** co-pilot for token launches & securities analysis, stablecoin issuance/integration, entity structuring, KYC/AML + sanctions + geoblocking, and DAO wrappers across US/EU/UK/SG/UAE/CH/offshore. Every claim cites a dated primary source (`sources.md`, verified 2026-06-29); structured outputs + explicit counsel checkpoints; **informational, not legal advice**, with guardrails that refuse misuse. Progressive-loading `SKILL.md` routing matching the `solana-game` shape; tested `install.sh`; MIT. Repo: `<REPO-URL>` · Demo: `DEMO.md`.
+> Fills the kit's only legal/compliance white space (no legal vendor exists in `ext/`). A jurisdiction-aware, **citation-first** co-pilot for token launches & securities analysis, stablecoin issuance/integration, entity structuring, KYC/AML + sanctions + geoblocking, and DAO wrappers across US/EU/UK/SG/UAE/CH/offshore. Every claim cites a dated primary source (`sources.md`, verified 2026-06-29); structured outputs + explicit counsel checkpoints; **informational, not legal advice**, with guardrails that refuse misuse. Progressive-loading `SKILL.md` routing matching the `solana-game` shape; tested `install.sh`; MIT. Repo: `https://github.com/anajuliarrod/crypto-legal-skill` · Demo: `DEMO.md`.
 
 ## Questionnaire crib (likely fields)
 

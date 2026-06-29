@@ -68,7 +68,7 @@ Progressive disclosure: only `SKILL.md` loads up front; everything else loads on
 
 **Standalone (Claude Code):**
 ```bash
-git clone https://github.com/<you>/crypto-legal-skill
+git clone https://github.com/anajuliarrod/crypto-legal-skill
 cd crypto-legal-skill
 ./install.sh          # copies skill/commands/agents/rules into ~/.claude/
 ```
@@ -76,7 +76,7 @@ Then invoke it: ask any crypto-legal question, or run `/legal-triage`.
 
 **Into the Solana AI Kit** (as a submodule under the skill hub):
 ```bash
-git submodule add https://github.com/<you>/crypto-legal-skill .claude/skills/ext/crypto-legal
+git submodule add https://github.com/anajuliarrod/crypto-legal-skill .claude/skills/ext/crypto-legal
 # then add one routing row to .claude/skills/SKILL.md
 ```
 
