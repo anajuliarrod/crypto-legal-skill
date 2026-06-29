@@ -11,7 +11,7 @@ How to read each entry: **Status** (in force / proposed / pending), **what it is
 ### #us-stablecoins-genius — GENIUS Act (payment stablecoins)
 - **Status (2026-06-29):** Enacted; implementing rules **proposed, not yet final**. ⚠️ Effective date = earlier of 18 months after enactment (≈2027-01-18) or 120 days after final regs.
 - **What:** Guiding and Establishing National Innovation for U.S. Stablecoins Act. Enacted **2025-07-18**. Generally **prohibits anyone other than a "permitted payment stablecoin issuer" from issuing a payment stablecoin in the U.S.**, and prohibits digital-asset service providers from offering/selling a payment stablecoin to U.S. persons unless the issuer is permitted (or a qualifying foreign issuer). Requires 1:1 high-quality liquid reserves, redemption rights, **no interest/yield to holders**, and AML/sanctions programs.
-- **Implementation:** OCC NPRM published **2026-03-02** (comments closed 2026-05-01); FDIC NPRM **2026-04-10**; FinCEN/OFAC joint NPRM on BSA/AML/sanctions (comments due 2026-06-09).
+- **Implementation:** OCC NPRM published **2026-03-02** (comments closed 2026-05-01); FDIC NPRM **2026-04-10**; FinCEN/OFAC joint NPRM on BSA/AML/sanctions (comments closed 2026-06-09). Agencies must **issue regulations by 2026-07-18** (one year post-enactment); as of 2026-06-29 the rules remain **proposed, not final** — re-check imminently.
 - **Links:**
   - OCC NPRM bulletin — https://occ.treas.gov/news-issuances/bulletins/2026/bulletin-2026-3.html
   - OCC reporting forms bulletin — https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-24.html
@@ -22,8 +22,8 @@ How to read each entry: **Status** (in force / proposed / pending), **what it is
   - Analysis: Morgan Lewis — https://www.morganlewis.com/pubs/2026/04/genius-act-implementation-key-proposals-and-what-comes-next
 
 ### #us-market-structure-clarity — CLARITY Act (digital asset market structure)
-- **Status (2026-06-29):** **NOT law.** House-passed (H.R.3633, 119th Cong.). Senate Banking Committee advanced it **15-9 on 2026-05-14**; placed on Senate Legislative Calendar (Calendar No. 423) **2026-06-01**; Senate Agriculture markup still pending; reconciliation not started. ⚠️ Treat as *direction of travel*, not current law.
-- **What:** Would sort digital assets into **digital commodity** (CFTC spot-market jurisdiction), **investment-contract assets** (SEC), and **stablecoins** (separate category). 
+- **Status (2026-06-29):** **NOT law.** House-passed (H.R.3633, 119th Cong.). Senate Banking advanced it **15-9 on 2026-05-14**; placed on Senate Legislative Calendar (Calendar No. 423) **2026-06-01**; **no floor vote yet** as of 2026-06-29. Needs **60 Senate votes** (~7 Democrats); an ethics dispute stalled talks (June 2026), and analysts flag the **August 2026 recess** as the practical deadline. ⚠️ Treat as *direction of travel*, not current law.
+- **What:** Would sort digital assets into **digital commodity** (CFTC spot-market jurisdiction), **investment-contract assets** (SEC), and **stablecoins** (separate category). Notably, assets on sufficiently decentralized networks — reportedly **including BTC, ETH, and SOL under current conditions** — would be **CFTC-regulated digital commodities** (relevant for Solana-native projects assessing their base-layer token's status, distinct from their own issued token). 
 - **Links:**
   - Bill text — https://www.congress.gov/bill/119th-congress/house-bill/3633/text
   - Senate Banking section-by-section — https://www.banking.senate.gov/imo/media/doc/section-by-section.pdf
