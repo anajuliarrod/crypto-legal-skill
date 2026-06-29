@@ -87,6 +87,10 @@ git submodule add https://github.com/<you>/crypto-legal-skill .claude/skills/ext
 - **`/token-launch-review`** — structured readiness review of a launch plan.
 - **`crypto-counsel` agent** — deep multi-topic memo with counsel checkpoints.
 
+## Demo
+
+See [`DEMO.md`](DEMO.md) for two end-to-end transcripts — a deep token-launch analysis (governance token + airdrop with US users) and a deliberately *light* one (the skill rightsizes a simple non-custodial USDC app instead of dumping issuer regulation on it).
+
 ## Design principles ([`rules/legal-guardrails.md`](rules/legal-guardrails.md))
 
 1. Not legal advice — ever. 2. Citation-first. 3. Jurisdiction-aware. 4. Dated. 5. Refuse to help break the law. 6. Structure over prose.
